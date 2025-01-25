@@ -1,4 +1,6 @@
 import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # Title and description
 st.title("Job Skills Gap Analyzer")
